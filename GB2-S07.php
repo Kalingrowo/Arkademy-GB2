@@ -58,6 +58,13 @@
     </div>
   </div>
 
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2018 Copyright:
+    <a href="https://github.com/Kalingrowo/"> Kalingrowo</a>
+  </div>
+  <!-- Copyright -->
+
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
